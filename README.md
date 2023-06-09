@@ -12,9 +12,15 @@ The relevant file download links are provided below.
 | YOLOv5 (EGAN-JT) | [link](https://drive.google.com/file/d/1ehomjgjU28kkJhJvgtENX7i6p_zpnXgJ/view?usp=sharing) |
 | YOLOv5 (low-light) | [link](https://drive.google.com/file/d/11a40xQDInFstfSz2IKTXROt7Z-5RJhB5/view?usp=sharing) |
 
-For detecting videos: open detect.py file and update the source video filename.
-
-USAGE: python3 detect.py -e ENHANCEMENT_MODEL -o OUTPUT_FILENAME.mp4
+For detecting videos open **detect.py** file and update the source video filename.
+<br>
+USAGE:
+```
+python3 detect.py -e ENHANCEMENT_MODEL -o OUTPUT_FILENAME.mp4
+```
 The library currently supports EGAN, Zero-DCE, MBLLEN and IAT image enhancement models.
-
-HELP: python3 detect.py --help
+<br>
+For help:
+```
+python3 detect.py --help
+```
