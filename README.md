@@ -1,7 +1,7 @@
 # Low-light-object-detection-and-tracking
 
 <p align="center">
-  <img width="300" height="100" src="./eganjt-model-tracking.gif">
+  <img width="600" height="337" src="./eganjt-model-tracking.gif">
 </p>
 
 ![image](./eganjt-model-tracking.gif)
