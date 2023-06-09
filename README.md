@@ -1,5 +1,7 @@
 # Low-light-object-detection-and-tracking
 
+![image](./eganjt-model-tracking.gif)
+
 Make a folder and name it "weights". Then copy the relevant low-light enhancement model and corresponding yolov5 weights file into the "weights" folder.
 The relevant file download links are provided below.
 
@@ -14,13 +16,13 @@ The relevant file download links are provided below.
 
 For detecting videos open **detect.py** file and update the source video filename.
 <br><br>
-Usage:
+### Usage:
 ```
 python3 detect.py -e ENHANCEMENT_MODEL -o OUTPUT_FILENAME.mp4
 ```
 The library currently supports EGAN, Zero-DCE, MBLLEN and IAT image enhancement models.
 <br><br>
-For help:
+### For help:
 ```
 python3 detect.py --help
 ```
