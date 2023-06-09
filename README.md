@@ -1,5 +1,9 @@
 # Low-light-object-detection-and-tracking
 
+<p align="center">
+  <img width="300" height="100" src="./eganjt-model-tracking.gif">
+</p>
+
 ![image](./eganjt-model-tracking.gif)
 
 Make a folder and name it "weights". Then copy the relevant low-light enhancement model and corresponding yolov5 weights file into the "weights" folder.
