@@ -4,8 +4,6 @@
   <img width="600" height="337" src="./eganjt-model-tracking.gif">
 </p>
 
-![image](./eganjt-model-tracking.gif)
-
 Make a folder and name it "weights". Then copy the relevant low-light enhancement model and corresponding yolov5 weights file into the "weights" folder.
 The relevant file download links are provided below.
 
